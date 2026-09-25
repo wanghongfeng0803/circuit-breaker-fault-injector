@@ -1,0 +1,14 @@
+{
+  "name": "circuit-breaker-fault-injector",
+  "version": "1.0.0",
+  "description": "熔断器状态机与故障注入压测",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
